@@ -16,7 +16,7 @@ The core hypothesis is as follows: The course should include more smaller, struc
 
 In order to test this hypothesis, I primarily used three data sets: programming_effective, difficulty, and understanding. The first step was to load the datasets, convert them into column-based tables, and combine them. Then, I selected the most relevant columns outlined above and counted how students rated progrmaming assignments to understand perceived effectiveness, and I made a histogram to display this. 
 
-<img src="static/imgs/programming_effective_count.png" alt="Chart of programming assignment effectiveness ratings" width="500"/>
+<img src="static/imgs/programming_effective count.png" alt="Chart of programming assignment effectiveness ratings" width="500"/>
 
 Then, I made a scatterplot comparing course difficulty with perceived effectiveness of progrmaming assignments. 
 
