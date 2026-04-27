@@ -6,7 +6,7 @@ layout: default
 # COMP 110 Course Analysis from Surveys
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="EX09-Repository-2-TG/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Hypothesis
 
@@ -16,15 +16,15 @@ The core hypothesis is as follows: The course should include more smaller, struc
 
 In order to test this hypothesis, I primarily used three data sets: programming_effective, difficulty, and understanding. The first step was to load the datasets, convert them into column-based tables, and combine them. Then, I selected the most relevant columns outlined above and counted how students rated progrmaming assignments to understand perceived effectiveness, and I made a histogram to display this. 
 
-<img src="EX09-Repository-2-TG/static/imgs/program_effective count" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="program_effective count" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 Then, I made a scatterplot comparing course difficulty with perceived effectiveness of progrmaming assignments. 
 
-<img src="EX09-Repository-2-TG/static/imgs/difficulty" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="difficulty" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 Afterwards, I made a box plot comparing student understanding with programming assignment effectiveness. 
 
-<img src="EX09-Repository-2-TG/static/imgs/understanding" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="understanding" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Conclusion
 
